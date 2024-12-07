@@ -1,0 +1,6 @@
+spring:
+  config:
+    import: "configserver:"
+  cloud:
+    config:
+      uri: https://orange-chainsaw-x55vrjq9xgpxhpgwj-8888.app.github.dev/
