@@ -1,0 +1,6 @@
+spring:
+  config:
+    import: "configserver:"
+  cloud:
+    config:
+      uri: https://solid-goggles-jjj5gr4g4w692v6v-8887.app.github.dev/
